@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Carta Topográfica escala 1:20,000 F14C41c.</title>
+<purpose>
+La información Topográfica Digital escala 1:20,000, es la base para
+generar cartografía temática y/o derivar cartografía topográfica
+a escalas menores, útil también en la planeación, estudios
+ambientales, evaluación de infraestructura, evaluación de cambios,
+prevención de desastres, etc. Al proporcionarse en formato digital,
+los Datos Geográficos pueden ser complementados con otro tipo de
+información espacial para realizar diversos tipos de análisis y
+modelaje en sistemas de información geográfica.
+</purpose>
+<abstract>
+La Carta Topográfica Digital escala 1:20,000 contiene información
+sobre los diversos datos espaciales presentes en los conjuntos de
+datos, como curvas de nivel, hidrografía, vías de comunicación,
+localidades, entre otros.
+Estos rasgos son representados digitalmente por un componente
+geométrico (puntos, líneas o áreas) y componentes descriptivos
+(los atributos del dato).
+Los topónimos o nombres geográficos, se incluyen como atributos
+propios de cada uno de los datos que conforman cada conjunto de
+datos y que por su naturaleza los requieren.
+</abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>10. Base de imágenes de mapas de la cobertura de la tierra: Mapas base</principalTopic>
+<groupCategory>10. Base de imágenes de mapas de la cobertura de la tierra: Mapas base</groupCategory>
+</topicCategory>
+<keyword>Acueducto, Área de cultivo, Área urbana abierta, Banco de material, Bordo, Calle, Camellón, Camino, Canal, Carretera, Conducto, Corriente de agua, Corriente que desaparece, Cuerpo de agua, Curva de nivel, Depósitos de desechos, Edificación, Edificación cultural, Escuela, Estación de telecomunicación, Estanque, Instalación de bombeo, Instalacion deportiva o recreativa, Instalación de servicios, Instalación diversa, Isla, Lindero, Línea de transmisión, Línea telefónica, Localidad, Manantial, Manzana, Planta de agua, Pozo, Presa, Puente, Punto acotado, Referencia Geográfica, Servicio médico, Subestación eléctrica, Tanque</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular</type>
+<thesaurusName>Ninguno</thesaurusName>
+<edition>Primera.</edition>
+<presentationForm>5. Mapa Digital: Mapa representado en formato raster o vector</presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>http://www.inegi.org.mx/</CI_OnlineResource_linkage>
+<CI_OnlineResource_description></CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>10. Desconocido: La frecuencia de mantenimiento de los datos no se conoce.</maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename>Carta topográfica digital 1:20,000</graphfilename>
+<specuse>Mapa digital del formato cartográfico F14C41c</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2009-05-27</date>
+<dateType>2. Publicación: Indicador de la fecha que especifica cuando el recurso fue publicado</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation></date_creation>
+<date_begin>2008-06-02</date_begin>
+<date_end>2008-07-31</date_end>
+<inpname></inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Lic. José de Jesús Esquivel de la Rosa.</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Subdirector de Atención a Usuarios.</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 5301. Lada 01 800 111 46 34 (sin costo).</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-101.7778</westBoundLongitude>
+<eastBoundLongitude>-101.6667</eastBoundLongitude>
+<southBoundLatitude>21.125</southBoundLatitude>
+<northBoundLatitude>21.25</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>1. Vector: Los datos vectoriales se utilizan para representar datos espaciales</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres></latres>
+<longres></longres>
+<geogunit></geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll></lambertc_stdparll>
+<lambertc_longcm></lambertc_longcm>
+<lambertc_latprjo></lambertc_latprjo>
+<lambertc_feast></lambertc_feast>
+<lambertc_fnorth></lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer></mercatort_sfctrmer>
+<mercatort_longcm></mercatort_longcm>
+<mercatort_latprjo></mercatort_latprjo>
+<mercatort_feast></mercatort_feast>
+<mercatort_fnorth></mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll></mercator_stdparll>
+<mercator_sfec></mercator_sfec>
+<mercator_longcm></mercator_longcm>
+<mercator_feast></mercator_feast>
+<mercator_fnorth></mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer></tme_sfctrmer>
+<tme_longcm></tme_longcm>
+<tme_latprjo></tme_latprjo>
+<tme_feast></tme_feast>
+<tme_fnorth></tme_fnorth>
+</tme>
+<anoth_proj_def></anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone>14</utm_zone>
+<utm_sfctrmer>0.9996</utm_sfctrmer>
+<utm_longcm>-099.000000</utm_longcm>
+<utm_latprjo>00.000000</utm_latprjo>
+<utm_feast>500000</utm_feast>
+<utm_fnorth>0</utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc></local_planar_desc>
+<local_planar_geo_inf></local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance></plance>
+<coord_repres>
+<absres></absres>
+<ordres></ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res></distance_res>
+<bearing_res></bearing_res>
+<bearing_uni></bearing_uni>
+<ref_bearing_dir></ref_bearing_dir>
+<ref_bearing_mer></ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu></plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc></local_desc>
+<local_geo_inf></local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>Marco de referencia terrestre internacional 1992</horizdn>
+<ellips>Sistema Geodésico de Referencia de 1980 (GRS80).</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.2572221</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc> </altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem> </depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>  1. Atributo: Información aplicada al valor de atributo.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>
+<DQ_Completeness_nameOfMeasure></DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription></DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit></DQ_Completeness_valueUnit>
+<DQ_Completeness_value></DQ_Completeness_value>
+</DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_nameOfMeasure></DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription></DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit></DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value></DQ_LogicConsistency_value>
+</DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure></PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription></PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit></PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value></PositionalAccuracy_value>
+</PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure></TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription></TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit></TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value></TemporalAccuracy_value>
+</TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure></ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription></ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit></ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value></ThematicAccuracy_value>
+</ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>
+Se realiza una inspección o revisión visual comparando el archivo
+vectorial contra la información fuente para detectar rasgos
+faltantes y/o mal codificados.
+Todos los segmentos de área que cierran las áreas en el límite
+teórico del Conjunto de Datos presentan un valor de representación
+geométrica definido.
+La clasificación, identificación, dimensiones y relaciones geométricas
+de los rasgos capturados se definen en el Diccionario de Datos
+Topográficos escala 1 a 20,000.
+</statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>
+1. Se analizan visualmente las ortofotos y con la información de
+   clasificación de campo, se extrae la información que deberá
+   contener el archivo vectorial, acorde a los lineamientos
+   establecidos en el Diccionario de Datos Topográficos y a las
+   Normas y Especificaciones de actualización. La información
+   actualizada considera todos los datos espaciales contenidos en
+   el Diccionario de Datos.
+2. Dos métodos de actualización digital utilizados (Clasificación
+   de Campo, Extracción) por sobreposición de archivos raster/vector.
+3.  Se verifica que cada uno de los datos contenidos en el archivo
+   vectorial en proceso de actualización, tengan asignados los
+   códigos específicos, según la información de clasificación de
+   campo.
+4. Se estructura la información actualizada (mediante la aplicación
+   de los programas desarrollados para este propósito), conforme a
+   las especificaciones del Diccionario de Datos Topográficos.
+5. Se revisa la información actualizada de forma interactiva, para
+   asegurar que la información contenida en el material fuente, se
+   haya digitalizado de forma correcta, y que se hayan aplicado las
+   Normas y Especificaciones durante el proceso.
+6. Después de la revisión y corrección de posibles errores, el
+   archivo vectorial queda validado y se envía al área de Base de
+   Datos Geográficos.
+</LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description></LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii>
+Las entidades son de tipo punto y vector donde cada una de ellas representa un elemento o fenómeno geográfico.
+A continuación se listan las entidades.
+TIPO DE ENTIDAD						 PUNTOS    LÍNEAS     ÁREAS     TOTAL
+          Acueducto                                          0         1         0         1
+          Área de cultivo                                    0         0        74        74
+          Área urbana abierta                                0         0        67        67
+          Banco de material                                  5         0         0         5
+          Bordo                                              0       237         0       237
+          Calle                                              0      2994         0      2994
+          Camellón                                           0       203       218       421
+          Camino                                             0       286         0       286
+          Canal                                              0         2         2         4
+          Carretera                                          0        11         0        11
+          Conducto                                           0         3         0         3
+          Corriente de agua                                  0       140         0       140
+          Corriente que desaparece                           7         0         0         7
+          Cuerpo de agua                                     0         0       247       247
+          Curva de nivel                                     0       264         0       264
+          Depósitos de desechos                              0         0         1         1
+          Edificación                                      838         0        71       909
+          Edificación cultural                              88         0         0        88
+          Escuela                                          204         0         9       213
+          Estación de telecomunicación                      56         0         0        56
+          Estanque                                           0         0        19        19
+          Instalación de bombeo                              3         0         3         6
+          Instalación deportiva o recreativa                 0         0        13        13
+          Instalación de servicios                           2         0         1         3
+          Instalación diversa                                0         0        12        12
+          Isla                                               0         0         2         2
+          Lindero                                            0       405         0       405
+          Línea de transmisión                               0        13         0        13
+          Línea telefónica                                   0        15         0        15
+          Localidad                                         79         0         0        79
+          Manantial                                          1         0         0         1
+          Manzana                                            0         0      3905      3905
+          Planta de agua                                     0         0         1         1
+          Pozo                                              12         0         0        12
+          Presa                                              0         2         0         2
+          Puente                                             0        39         0        39
+          Punto acotado                                     40         0         0        40
+          Referencia Geográfica                              1         0         0         1
+          Servicio médico                                   39         0         0        39
+          Subestación eléctrica                              0         0         3         3
+          Tanque                                            26         0         5        31
+                                            -------- --------- --------- --------- 
+                                                1401      4615      4653     10669
+</schemaAscii>
+<entity_detail>Diccionario de datos topográficos 1:20,000. Versión 2.0</entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints>8. Acceso al público a través de Internet y los Centros de Información del Instituto Nacional de Estadística y Geografía - INEGI.</accessConstraints>
+<useConstraints>8. Ninguna.</useConstraints>
+<otherConstraints>El INEGI no se hace responsable por el uso que usted le de a los datos</otherConstraints>
+<MD_Format>
+<name></name>
+<version></version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Lic. Rafael Arrioja Urzúa.</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Jefe del Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>(449)9105300 Ext. 1750, 5631 y 5147</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile>(449)4424145</Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276</Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>México.</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2016-08-19</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>

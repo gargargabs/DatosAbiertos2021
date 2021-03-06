@@ -1,0 +1,30 @@
+Identifier: 
+
+Title: Conjuntos de datos vectoriales de la carta topográfica escala 1:20 000
+
+Description: 
+
+La Carta Topográfica Digital Escala 1:20 000 contiene información sobre los diversos datos espaciales presentes en los conjuntos de datos, como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos, se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren.
+
+Modified: 2006 – no definido
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI http://www.inegi.org.mx/terminos/terminos_info.aspx
+
+DataDictionary:
+http://www.inegi.org.mx/geo/contenidos/topografia/doc/dd_topo_20k.pdf
+
+Keyword: Acueducto, Aeródromo Civil, Área de Cultivo, Área Pública, Banco de  Material, Bordo, Camellón, Camino, Canal, Carretera, Cementerio, Conducto, Corriente de Agua, Corriente que Desaparece, Cuerpo de Agua, Curva de Nivel, Depósito de Desechos, Edificación, Edificación Cultural, Edificio Público, Elemento Insular, Emisor de Señales para Navegación, Enlace Fluvial, Entrada a Cavidad Subterránea, Escuela, Estación de Abastecimiento de Combustible, Estación de Telecomunicación, Estación de Transporte Terrestre, Estanque, Estructura Elevada, Forma del Relieve Submarino, Funicular/Teleférico, Granja, Instalación Aduanal, Instalación de Bombeo, Instalación de Servicios, Instalación de Telecomunicación, Instalación Deportiva o Recreativa, Instalación Diversa, Instalación Industrial, Instalación Portuaria, Límite Internacional, Línea de Costa, Línea de Transmisión, Línea Telefónica, Localidad, Lumbrera, Malpaís, Manantial, Manzana, Mina, Mojonera, Muro de Contención, Nieve Perpetua, Pantano, Pista de Aviación, Pista de Carreras, Planta de Agua, Planta Generadora, Plaza de Cobro, Pozo, Presa, Puente, Puerto, Punto Acotado, Rasgo Arqueológico, Referencia Geográfica, Salina, Salto de Agua, Servicio Médico, Subestación Eléctrica, Tanque, Terreno Sujeto a Inundación, Túnel, Vado, Vía de Tren Metropolitano, Vía Férrea, Vialidad, Zona Arenosa.
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2006 – no definido
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: no definido
+
+Distribution: http://buscador.inegi.org.mx/search?client=ProductosR&proxystylesheet=ProductosR&num=10&getfields=*&sort=date:D:S:d1&entsp=a__inegi_politica_p72&lr=lang_es%7Clang_en&oe=UTF-8&ie=UTF-8&ip=10.210.100.253&entqr=3&filter=0&site=ProductosBuscador&tlen=140&ulang=es&access=p&entqrm=0&ud=1&q=%22Cartas+Topogr%C3%A1ficas%22+inmeta:escala_ficha%3D1%253A20%2520000&dnavs=inmeta:escala_ficha%3D1%253A20%2520000
